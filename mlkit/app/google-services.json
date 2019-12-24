@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079693661448",
+    "firebase_url": "https://jasonfaced.firebaseio.com",
+    "project_id": "jasonfaced",
+    "storage_bucket": "jasonfaced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079693661448:android:c5f081ad0e1468b66d08bd",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079693661448-vpsfg9radpk5onukb7m7o1h447aadli6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rawZ9KfQJvYGu_lku22mas5CW7qu32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079693661448-vpsfg9radpk5onukb7m7o1h447aadli6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
